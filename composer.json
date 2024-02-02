@@ -16,7 +16,6 @@
         "ibexa/core": "4.4.4",
         "ibexa/cron": "4.4.4",
         "ibexa/design-engine": "4.4.4",
-        "ibexa/fieldtype-matrix": "4.4.4",
         "ibexa/fieldtype-query": "4.4.4",
         "ibexa/fieldtype-richtext": "4.4.4",
         "ibexa/graphql": "4.4.4",
